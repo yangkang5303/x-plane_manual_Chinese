@@ -1,4 +1,4 @@
-1.1概览
+# 1.1概览 #
 x-plane是世界上最全面，最强大的，提供了最真实的飞行体验的计算机飞行模拟器。x-plane不是游戏，而是一个工程工具，它令人难以置信的精度可以预测无论是固定翼还是旋转翼飞机的飞行品质。
 因为x-plane预测几乎任何飞机处理的性能，它成了一个让飞行员保持驾驶真正飞机的能力的伟大的工具，一个工程师用来测试新飞机的模拟器，一个为航空爱好者探索飞行器世界的好伙伴。
 欢迎来到一个道具，飞机，单/多引擎飞机，滑翔机，直升机和VTOLs的世界！ x-plane包含亚音速和超音速飞行动力学，使用户预测最慢飞机或最快的飞行特性。 x-plane还默认包括超过30架飞机，它们横跨航空业的历史，包括从贝尔206,JetRanger,塞斯纳172到航天飞机,B-2轰炸机。此外，从互联网上还可以下载额外2000多种机型（X-Plane.org，X-Plane.com页面，请善用谷歌），这些许多还是完全免费的。如果这些对你来说还不够，可自行设计飞机来试飞！
@@ -10,67 +10,68 @@ x-plane被世界领先的国防承包商，空军部队，飞机制造商，甚�
 举几个例子，x-plane已被用于在空难调查中，描绘飞机在相撞之前飞行轨迹，或将飞行中的航空器承受的力量以图形方式呈现给陪审团和法官。Scaled Composites公司用x-plane模拟航空载具在大气边缘的情景。 Kalitta采用了x-plane训练他们的飞行员在半夜驾驶747。西北航空与日本航空公司使用x-plane飞行审核和培训。塞斯纳​​采用x-plane培养新客户使用GarminG1000。戴夫·罗斯在雷诺飞行比赛中多次获胜使用x-plane优化飞机，美国航空航天局NASA用x-plane测试进入火星大气层的滑翔机...这样的例子不胜枚举。这些客户也许是最能代言x-plane显著功能的人群，令人难以置信！
 此外，x-plane已经从美国联邦航空局FAA获得资格认证：登陆后使用x-plane飞行体验和评级，这些培训经验可以为私人飞行员执照提供有效飞行时间，复发证书有效飞行时间，数小时的飞行仪器训练，甚至数小时的航线运输认证——就是这么好。
 
-1.2 x-plane包含什么
+# 1.2 x-plane包含什么 #
 	x-plane10全球（X-Plane.com提供的X-Plane版本）包含Windows，Mac和Linux安装版本。它包括超过70 GB的风景（基本上覆盖了整个世界）和三十架飞机，数千架可以从网络上下载。这些DVD包含运行x-plane的必需物——无需额外购买其他。11版发布前，你会免费接收x-plane 10 所有升级，以及最好的客户服务和技术支持。
 虽然x-plane包含了世界上最全面的飞行器，安装DVD还附赠飞机制作程序（Plane Maker），允许用户创建自定义的飞机或修改现有的设计，以及允许用户修改机翼的性能Airfoil Maker。
 原版安装包括以下航空器：
-Cirrus Vision SF50 
-North American X-15 
-Beechcraft Baron 58 
-Lancair Evolution 
-Cessna 172SP 
-McDonnell Douglas KC-10 Extender 
-Piaggo P.180 Avanti 
-Boeing 747-400 and 747-100 
-Stinson L-5 Sentinel 
-Robinson R22 Beta helicopter 
-ASK-21 glider 
-Boeing B-52G Stratofortress 
-Beechcraft King Air C90B 
-Bombardier Canadair CL-415 
-F-22 Raptor 
-Viggen JA37 
-Lockheed SR-71 Blackbird 
-F-4 Phantom II 
-Boeing AV-8B Harrier II 
-Bell 206 helicopter
-Lockheed C-130 Hercules 
-Space Shuttle Orbiter 
-Thunder Tiger Raptor 30 v2 RC helicopter 
-Great Planes PT-60 RC plane 
 
-当然，互联网上还有数千个飞行器可供下载，如下是一些举例
+	- Cirrus Vision SF50 
+	- North American X-15 
+	- Beechcraft Baron 58 
+	- Lancair Evolution 
+	- Cessna 172SP 
+	- McDonnell Douglas KC-10 Extender 
+	- Piaggo P.180 Avanti 
+	- Boeing 747-400 and 747-100 
+	- Stinson L-5 Sentinel 
+	- Robinson R22 Beta helicopter 
+	- ASK-21 glider 
+	- Boeing B-52G Stratofortress 
+	- Beechcraft King Air C90B 
+	- Bombardier Canadair CL-415 
+	- F-22 Raptor 
+	- Viggen JA37 
+	- Lockheed SR-71 Blackbird 
+	- F-4 Phantom II 
+	- Boeing AV-8B Harrier II 
+	- Bell 206 helicopter
+	- Lockheed C-130 Hercules 
+	- Space Shuttle Orbiter 
+	- Thunder Tiger Raptor 30 v2 RC helicopter 
+	- Great Planes PT-60 RC plane 
 
-Beechcraft Bonanza 
-Boeing 727/737/747/787 
-Mooney M20J 201 
-Piper PA-16 Clipper 
-de Havilland DH-106 Comet 
-Pitts “Mountain Dew” S2C 
-Sikorsky S76 
-StratoCloud Ram-Air 
-P-51D Mustang 
-Piper Twin Comanche PA30 
-Beechcraft King Air 350 
-Cessna 195 
-Cessna C150 
-Bell 222 
-Douglas A-4B Skyhawk 
-Ilyushin IL-76 
-Fiat CR.42 Falco 
-Paris Jet III 
-Bell 407 
-Peregrine F222 Firenze 
-Beechcraft Staggerwing 
-Curtis P-6 Hawk 
-Ford Tri-motor 
-Cessna 120 
-Hawker Sea Harrier FRS1 
-Airbus A320/A340/A380
+当然，互联网上还有数千个飞行器可供下载，部分列举如下
 
-1.3 关于x-plane的版本
+	- Beechcraft Bonanza 
+	- Boeing 727/737/747/787 
+	- Mooney M20J 201 
+	- Piper PA-16 Clipper 
+	- de Havilland DH-106 Comet 
+	- Pitts “Mountain Dew” S2C 
+	- Sikorsky S76 
+	- StratoCloud Ram-Air 
+	- P-51D Mustang 
+	- Piper Twin Comanche PA30 
+	- Beechcraft King Air 350 
+	- Cessna 195 
+	- Cessna C150 
+	- Bell 222 
+	- Douglas A-4B Skyhawk 
+	- Ilyushin IL-76 
+	- Fiat CR.42 Falco 
+	- Paris Jet III 
+	- Bell 407 
+	- Peregrine F222 Firenze 
+	- Beechcraft Staggerwing 
+	- Curtis P-6 Hawk 
+	- Ford Tri-motor 
+	- Cessna 120 
+	- Hawker Sea Harrier FRS1 
+	- Airbus A320/A340/A380
+
+# 1.3 关于x-plane的版本 #
 	
-	x-plane在被场合广泛使用，从家用到商用飞行培训等。标准安装的x-plane为x-plane 10 全球，它对所有的家用是几乎完美的。超出标准的家庭使用情况的（包括商业使用模拟器）需要购买一个USB“钥匙”（一个简单的U盘），用于解锁的x-plane的专业版功能。
+x-plane在被场合广泛使用，从家用到商用飞行培训等。标准安装的x-plane为x-plane 10 全球，它对所有的家用是几乎完美的。超出标准的家庭使用情况的（包括商业使用模拟器）需要购买一个USB“钥匙”（一个简单的U盘），用于解锁的x-plane的专业版功能。
 需要注意的是FAA认证模拟器不仅要求用户具有x-plane10专业版，而且需要合适的飞行硬件（驾驶舱和飞行控制）可通过Precision Flight Controls 和 Fidelity公司获得。这是因为飞行训练认证系统需要一个完整的软硬件包。对商业飞行来说，FAA认证的软件价格在750美元到1000美元之间，硬件上需要5000美元50万美元之间。在X-Plane.com购买的零售版的x-plane开箱后不能直接用于认证飞行训练，因为认证需要一个软件和硬件的结合。然而，该80美元的零售版几乎和50万美元的FAA认证的平台是相同的内在——最大的区别在于FAA认证的版本有定制化的飞机文件，较大的仪表板被设置与硬件无线电协同工作，正如像那些在物理驾驶舱找到东西一样。不过FAA认证的版本中一些纯粹娱乐的模式（如太空飞行）被删除，即使这些模式都在x-plane被精确仿真，且精确度与其他亚音速飞行模拟无异。
 	
 1.3.1 x-palne 10 全球
@@ -81,15 +82,15 @@ Airbus A320/A340/A380
 和x-plane 10 全球不同，x-plane 10 区域 光盘仅包括世界上一部分地景（例如，欧洲或北美）。成本比x-planex-plane10全球版本略低。然而除了风景，x-plane 10 区域版与全球版无异，该版本亦在X-Plane.com出售。
 
 1.3.3 x-plane10专业版
-这个版本的x-plane用于商业用途，是FAA认证的模拟器，以及EFIS应用。它的每一个程序副本的运行都需要一个x-plane专业版的USB key 或网络上的EFIS应用程序。
-x-plane10 专业版区别于x-plane10全球普通版的地方是EFIS，EFIS应用是一个计算机上独立运行的程序，给出了一个非常真实的Avidyne主飞行显示（PFD）和模块化的飞行面板（MFD），以上为运行x-plane10专业版的必要装备。
+	这个版本的x-plane用于商业用途，是FAA认证的模拟器，以及EFIS应用。它的每一个程序副本的运行都需要一个x-plane专业版的USB key 或网络上的EFIS应用程序。
+	x-plane10 专业版区别于x-plane10全球普通版的地方是EFIS，EFIS应用是一个计算机上独立运行的程序，给出了一个非常真实的Avidyne主飞行显示（PFD）和模块化的飞行面板（MFD），以上为运行x-plane10专业版的必要装备。
 当然，两台监视器可以挂接到一台计算机，使得一台计算机上同时运行（EFIS）Avidyne PFD和MFD，这将节省一些钱。
 此外，该USB key可以x-plane驾驶真实的G430和G1000 GPS装置。注意，为了连接真正的G430或G1000，用户必须从GARMIN公司得到它们，然后接到到计算机的串行或以太网口。用户不确定如何做到这一点的最好从“Precision Flight Controls”购买一个傻瓜式的开箱及用的盒装模拟器。 PFC提供了现成的与实际G430s和G1000s安装并运行的组件。
 此外，USB key是用于商业用途和FAA批准模拟器飞行训练的关键。x-plane启动时，会显示消息：“用于商业用途”，然后x-plane检查飞行控制硬件和帧速率，正如FAA要求的那样。最后，这个USB key可以打开地图的两种投影方式：柱形和球形。
 x-plane10专业版是一个取代Microsoft ESP (Enterprise Simulation Platform)的不二选择。
 专业版的USB key，以及模拟器本身，可以从XPlane.com的购买。 EFIS应用程序可以从X-Plane.com网站下载。USB key的Mac OS和Windows驱动程序可以从X-Plane.com网站下载，安装，使得x-plane能识别USB key。
 
-1.4 历史
+# 1.4 历史 #
 	很多人问我们关于x-plane ，我们如何开始的，以后去哪儿问题。这里介绍关于Austin Meyer（作者）和X-Plane的历史的背景资料。
 正如你可能知道，最流行的飞行模拟器在市场上历来是微软飞行模拟器。这主要是由于他们起步早，其历史可追溯到约1982年左右。多年来，已经有许多公司（Flight-Unlimited, Fly and Fly-2k）试图与微软竞争。除了x-plane，所有的都失败了。从一开始使用的，x-plane最大的优势是在产生飞行模型的方式和高帧速率的x-plane可以运行。这早已给了我们一个优势是，能够准确地计算并描绘出飞行在飞行中的飞机的反应和感觉。在过去，微软不得不风景优于x-plane 的，还有更多的加载项。微软的优势主要是在这里死了大约中途通过X-8飞机的运行。 x-plane 10马克又一次飞跃在我们的模拟器，我们什么毫不犹豫地认为是最伟大的飞行模拟器可用。
 多年来，我们一直觉得，看到越来越多的销售，共有约750,000份的x-plane 或者通过网上订单或零售商的出货量2009年4月（不包括50万份新的iPhone应用程序！）。此外，x-plane 是唯一一个可用于Macintosh，Windows和Linux平台的商业飞行模拟器。在XPlane.com出售的copy是3平台通吃的，所以用户是不会买错版本的。 （请注意，一些零售商使用缩减版的来降低成本,买家要注意辨别。）
@@ -97,6 +98,7 @@ x-plane10专业版是一个取代Microsoft ESP (Enterprise Simulation Platform)�
 总之，我们已经进行了改进和少数极驱动和人才x-plane 的准确度相当多我们的生活的使命。
 
 1.4.1 奥斯汀的自传（截至2006年年中）
+
 嗨！我是一个私人飞行员，在少数轻型，中型塞斯纳
 派珀（伴随我长大的飞机）和2003年购买的Cirrus SR-22 Centennial Edition 8141Q总共大约1500小时飞行时长，一个月后，我将切换到Lancair 400哥伦比亚以确保以最大速度在全国各地跳跃的客户提供服务。 （我的客户支持，兰迪·威特，飞着比奇男爵。我告诉你，这使该家伙写点和支持x-plane 有飞行员，飞机所有者和工程师。航空是我们生活的很大一部分，而且我们热爱我们正在做的。）
 无论如何，早在1988年左右，之后我已经得到我的仪表等级的平静和友好哥伦比亚，南卡罗来纳州的天空，我发现自己在加州圣地亚哥，工作杜邦航空航天，小航天科技公司工作，对一些优秀的，但不同寻常的设计，我不能详细讨论。
@@ -109,7 +111,7 @@ x-plane10专业版是一个取代Microsoft ESP (Enterprise Simulation Platform)�
 
 
 
-1.5 x-plane的今天
+# 1.5 x-plane的今天 #
 如今，x-plane 仍然在Macintosh平台上开发（正如它第一天开始的那样）
 并移植到Windows和Linux的机器，跨平台的游戏软件可运行在几乎任何个人计算机上。
 Velocity, NASA, Scaled Composites, 以及卡特航空的工程师都使用x-plane 设计，评估和模拟飞行测试。美国国家试飞员学校使用x-plane训练驾驶员测试非传统飞机和飞行控制系统。我知道有个八岁的意大利小女孩喜欢在机场围网四周滑行飞机，仅仅是为了观看那些机场周围的护卫舰，其他孩子们尝试x-plane自己设计飞机，无数的年轻人兴高采烈地模拟F-22战机以2马赫的速度撞击地面。
