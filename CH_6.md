@@ -1,8 +1,8 @@
-第六章 x-plane的高级模拟
+# 第六章 x-plane的高级模拟
 
 x-plane是迄今为止世界上最牛X的的飞行模拟软件，当然不能只是做一些简单的起飞，降落。她还可以用来做一些复杂的事情：例如，飞行日志，事件清单（checklist），设备的故障模拟，损坏模型的构建。
 
-6.1 飞行日志
+## 6.1 飞行日志
 
 Each time an aircraft is ﬂown in X-Plane, the program logs the ﬂight time in a digital logbook. By
 default, X-Plane creates a text ﬁle called “X-Plane Pilot.txt” in the 
@@ -11,19 +11,19 @@ X-Plane 10/Output/logbooks
 directory. Inside this text ﬁle are the following details of previous ﬂights:
 目录下，文件记录如下详情：
 
-Dates of ﬂights——飞行的日期
-Tail numbers of aircraft——飞机的尾号
-Aircraft types——飞行器类别
-Airports of departure and arrival——飞离或者飞抵的机场
-Number of landings——降落数
-Duration of ﬂights——飞行时间
-Time spent ﬂying cross-country, in IFR conditions, and at night——飞机在夜间用IFR飞过某州的时间
-Total time of all ﬂights——所有的飞行时间
+- Dates of ﬂights——飞行的日期
+- Tail numbers of aircraft——飞机的尾号
+- Aircraft types——飞行器类别
+- Airports of departure and arrival——飞离或者飞抵的机场
+- Number of landings——降落数
+- Duration of ﬂights——飞行时间
+- Time spent ﬂying cross-country, in IFR conditions, and at night——飞机在夜间用IFR飞过某州的时间
+- Total time of all ﬂights——所有的飞行时间
 
 做法：移动鼠标到菜单栏，About-Logbook,点击Choose Pilot Logbook，观看某一日志；
 或者按New Pilot Logbook按钮，新建日志。
 
-6.2 和空管协作(ATC)
+## 6.2 和空管协作(ATC)
 
 如果你不是仅仅想要飞一飞，而是想要训练真实世界的飞行规则的话，x-plane10的强大和真实性就体现出来了。注意：AI机总是会听从ATC指挥，即使你不听指挥，它们也会让着你。
 要听到ATC的声音：请确保，声音已经打开。
@@ -42,26 +42,27 @@ Total time of all ﬂights——所有的飞行时间
 下一步，你必须输入离开和到达的地点的代号（地图里面有），还有你的飞行高度，按 File
 键向ATC提交！提交了飞行计划之后，再次打开ATC窗口，点击“Request Clearance（申请放行）.”
 
-6.3 改变飞机怎么开始，以及在哪里开始
+## 6.3 改变飞机怎么开始，以及在哪里开始
 
 默认情况下，飞机都是引擎运行的，停在跑道的一头等待起飞，如果你希望飞机是停在停机坪上的，想自己滑行到跑道，你一个这么做：打开菜单Setting-Operations & Warnings.在“Startup“标签栏里面，关闭 Start each ﬂight with engines running或者勾选 Start each ﬂight on ramp。
 
-6.4 使用检查单
+## 6.4 使用检查单
 
 x-plane可以显示简单的纯文本检查单，这个文本必须在游戏的某一个目录里面，后缀名为txt.
 如何加载Checklist, 点击Special菜单-Open Checklist for Use.然后你将会看见屏幕上方出现了检查单，你可以点击上一页或者下一页，在Special菜单里面Toggle Checklist可以关闭检查单。
 如果想全部显示检查单，你可在Special菜单里面点Toggle Text File for Viewing。
 
-6.5 损伤会不会飞机
+## 6.5 损伤会不会飞机
 默认你的飞机是无敌的，但那是不现实的。打开一些真实性，可以打开Settings-Operations & Warnings里面看到如下选项：
-	
-• remove ﬂying surfaces in over-speed,（飞机超速的时候部件脱落） 
-• remove ﬂying surfaces in over-G（飞机的受到过大的力时导致部件脱落）, 
-• remove ﬂaps in over-Vfe , （超过安全速度导致襟翼脱落）襟翼放下的角度和速度之间的限制在空速表里面有显示。
-• remove gear doors in over-Vle （在起落架放下的时候超速导致起落架脱落）
-开启这些真实性可以让你避免 不切实际的动作^ ^，锻炼你飞得更加准确，让飞行更有挑战性！
+- 	
+- remove ﬂying surfaces in over-speed,（飞机超速的时候部件脱落） 
+-  remove ﬂying surfaces in over-G（飞机的受到过大的力时导致部件脱落）, 
+-  remove ﬂaps in over-Vfe , （超过安全速度导致襟翼脱落）襟翼放下的角度和速度之间的限制在空速表里面有显示。
+-  remove gear doors in over-Vle （在起落架放下的时候超速导致起落架脱落）
 
-6.6设置机重(weight)，平衡(balance)，燃料(fuel)
+开启这些真实性可以让你避免 不切实际的动作^ - ^，锻炼你飞得更加准确，让飞行更有挑战性！
+
+## 6.6设置机重(weight)，平衡(balance)，燃料(fuel)
 
 设定方法：移动鼠标到上方菜单栏点击Aircraft menu- Weight and Fuel.
 滑条自己看得懂吗，拖拖看。
@@ -69,7 +70,7 @@ x-plane可以显示简单的纯文本检查单，这个文本必须在游戏的�
 把飞机的重心调节到比较奇怪（太靠前或者靠后）的位置会引起飞行不稳定。
 前面说过了，x-plane是实时计算飞机的每一项参数来模拟的（至于你信不信，我反正信了），所以燃料的消耗速度也是根据引擎的使用来计算的。所以燃油的重量，分布，携带是有章可循的。
 
-6.7 模拟设备故障
+## 6.7 模拟设备故障
 x-plane里面有数不清的设备故障情况可以模拟，大到引擎停转，小到仪器失灵。
 在Aircraft-Equipment Failures里面有许多可选故障其中有一项是World/MTBF
 World/MTBF改变的是飞机外面的变化因素
@@ -83,6 +84,6 @@ Flying Surfaces——飞机表面
 G1000 (if you have a real G1000 attached to X-Plane)——外接设备
 All Instruments, and NAVAIDs——其他设备和通信仪器
 
-6.8 打开引擎烟雾
+## 6.8 打开引擎烟雾
 
-按x键开或者关。
+按x 键开或者关。
